@@ -2,7 +2,7 @@
 
 👩🏻‍💻**Junior Software Engineering** sharing about my journey and learnings in tech
 
-👩🏻‍🎓Studing at King Fahd University of Petroleum & Minerals - KFUPM
+👩🏻‍🎓Studying at King Fahd University of Petroleum & Minerals - KFUPM
 
 ---
 
@@ -12,6 +12,7 @@
 <a href="https://github.com/Somaiakha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Somaiakha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/somaia-khawaji-778283369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/somaia-khawaji-778283369/" height="30" width="40" /></a>
 </p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
